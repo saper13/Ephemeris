@@ -22,5 +22,7 @@ the result consists of: time (propagation starts 1.01.2016 at noon) and orbital 
 
 The program has been written as a student project to compare influence of aerodynamic drag and solar radiation pressure.
 
+Since this is just student project I cannot give any guarantee that the results are correct and and I don't take responsibility of any consequences of using this aplication.
+
 The project is based on Orekit 7.0 libraries, using also Common Maths3 3.5 .
 
